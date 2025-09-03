@@ -35,7 +35,11 @@ This repository contains a collection of **8086 assembly language programs** tha
 
 ### Shift Operations
 - **RCR.asm** – Demonstrates Rotate Right Through Carry operation  
-- **SHL.asm** – Demonstrates Shift Left operation  
+- **SHL.asm** – Demonstrates Shift Left operation
+
+ ### Multiplication and Division Operations
+- **MUL**   
+- **DIV** 
 
 ---
 
